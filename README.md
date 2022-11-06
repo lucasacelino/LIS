@@ -1,0 +1,1 @@
+Repositório de exercícios referentes à discilplina de Linguagens de Script(LIS).
