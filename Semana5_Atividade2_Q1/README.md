@@ -1,0 +1,2 @@
+Exercício referente à disciplina de Linguagens de Script ministrada pelo o professor Rhavy Maia Guedes (https://github.com/rhavymaia).
+ - Link do exercício: https://docs.google.com/document/d/1HacU4FwQbslC9yxCvkXS1HnDMbO6Qdn3Qoy_J607Ok4/edit
